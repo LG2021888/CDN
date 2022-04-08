@@ -1,25 +1,25 @@
 {
     "Summary": {
         "UnityVersion": "2019.4.16f1",
-        "BuildTime": "2022/4/8 14:18:28",
-        "BuildSeconds": 4,
+        "BuildTime": "2022/4/8 14:19:26",
+        "BuildSeconds": 2,
         "BuildTarget": 19,
-        "BuildVersion": 1,
+        "BuildVersion": 2,
         "EnableAutoCollect": true,
         "AppendFileExtension": false,
         "AutoCollectShaders": false,
         "ShadersBundleName": "",
         "EncryptionServicesClassName": "GameEncryption",
-        "ForceRebuild": true,
+        "ForceRebuild": false,
         "BuildinTags": "",
         "CompressOption": 2,
         "AppendHash": false,
         "DisableWriteTypeTree": false,
         "IgnoreTypeTreeChanges": true,
         "DisableLoadAssetByFileName": false,
-        "AssetFileTotalCount": 23,
+        "AssetFileTotalCount": 24,
         "AllBundleTotalCount": 14,
-        "AllBundleTotalSize": 6486671,
+        "AllBundleTotalSize": 9247452,
         "BuildinBundleTotalCount": 0,
         "BuildinBundleTotalSize": 0,
         "EncryptedBundleTotalCount": 0,
@@ -66,6 +66,12 @@
         },
         {
             "AssetPath": "Assets/GameRes/Music/hoyo.mp3",
+            "MainBundle": "assets/gameres/music",
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "AssetPath": "Assets/GameRes/Music/Jannik.mp3",
             "MainBundle": "assets/gameres/music",
             "DependBundles": [],
             "DependAssets": []
@@ -213,10 +219,10 @@
         },
         {
             "BundleName": "assets/gameres/music",
-            "Hash": "7a37d4db848b863f624a8c316ca4f85e",
-            "CRC": "efedb136",
-            "SizeBytes": 4479870,
-            "Version": 1,
+            "Hash": "79172027b08049b3889ef630ab4e44ae",
+            "CRC": "c120eddd",
+            "SizeBytes": 7240651,
+            "Version": 2,
             "Tags": [
                 "other"
             ],
