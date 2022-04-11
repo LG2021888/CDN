@@ -1,10 +1,10 @@
 {
     "Summary": {
         "UnityVersion": "2019.4.16f1",
-        "BuildTime": "2022/4/11 11:09:33",
-        "BuildSeconds": 3,
+        "BuildTime": "2022/4/11 11:29:22",
+        "BuildSeconds": 2,
         "BuildTarget": 13,
-        "BuildVersion": 2,
+        "BuildVersion": 3,
         "EnableAutoCollect": true,
         "AppendFileExtension": false,
         "AutoCollectShaders": false,
@@ -138,9 +138,7 @@
                 "Assets/GameArt/UISprite/UIIcons/Icon_Arrows_128.png",
                 "Assets/GameArt/UISprite/UIIcons/Icon_Shield_128.png",
                 "Assets/GameArt/UISprite/UIIcons/Icon_Leafs_128.png",
-                "Assets/GameArt/UISprite/UIIcons/Icon_Sword_128.png",
-                "Assets/GameArt/UISprite/UIIcons/Icon_Fireball_128.png",
-                "Assets/GameArt/UISprite/UIIcons/Icon_Deathkiss_128.png"
+                "Assets/GameArt/UISprite/UIIcons/Icon_Sword_128.png"
             ]
         },
         {
@@ -312,10 +310,10 @@
         },
         {
             "BundleName": "assets/gameart/uisprite/uiicons",
-            "Hash": "1a1c7f0975c79f0b37dd0322e4d5e31e",
-            "CRC": "20a1bf12",
+            "Hash": "b40cdf3e9522a4caff413c89f72d0ea6",
+            "CRC": "dd4a1488",
             "SizeBytes": 3593,
-            "Version": 1,
+            "Version": 3,
             "Tags": [
                 "other"
             ],
