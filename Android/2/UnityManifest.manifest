@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3831772666
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets/gameres/entity/level1/footman_blue
+      Dependencies: {}
+    Info_1:
+      Name: assets/gameres/entity/level2/footman_green
+      Dependencies: {}
+    Info_2:
+      Name: assets/gameres/entity/level3/footman_red
+      Dependencies: {}
+    Info_3:
+      Name: assets/gameres/entity/level3/footman_yellow
+      Dependencies: {}
+    Info_4:
+      Name: assets/gameres/scene/boot
+      Dependencies: {}
+    Info_5:
+      Name: assets/gameres/scene/game
+      Dependencies: {}
+    Info_6:
+      Name: assets/gameres/music
+      Dependencies: {}
+    Info_7:
+      Name: assets/gameres/texture
+      Dependencies: {}
+    Info_8:
+      Name: assets/gameres/uiatlas/tpatlas
+      Dependencies: {}
+    Info_9:
+      Name: assets/gameres/uiatlas/unityatlas
+      Dependencies:
+        Dependency_0: assets/gameart/uisprite/uiicons
+    Info_10:
+      Name: assets/gameart/uisprite/uiicons
+      Dependencies: {}
