@@ -1,16 +1,16 @@
 {
     "Summary": {
         "UnityVersion": "2019.4.16f1",
-        "BuildTime": "2022/4/12 18:03:21",
-        "BuildSeconds": 13,
+        "BuildTime": "2022/4/12 18:11:39",
+        "BuildSeconds": 5,
         "BuildTarget": 13,
-        "BuildVersion": 1,
+        "BuildVersion": 2,
         "EnableAutoCollect": true,
         "AppendFileExtension": false,
         "AutoCollectShaders": false,
         "ShadersBundleName": "",
         "EncryptionServicesClassName": "GameEncryption",
-        "ForceRebuild": true,
+        "ForceRebuild": false,
         "BuildinTags": "",
         "CompressOption": 2,
         "AppendHash": false,
@@ -19,13 +19,13 @@
         "DisableLoadAssetByFileName": false,
         "AssetFileTotalCount": 39,
         "AllBundleTotalCount": 14,
-        "AllBundleTotalSize": 9203268,
+        "AllBundleTotalSize": 9203271,
         "BuildinBundleTotalCount": 0,
         "BuildinBundleTotalSize": 0,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0,
         "RawBundleTotalCount": 3,
-        "RawBundleTotalSize": 63
+        "RawBundleTotalSize": 66
     },
     "AssetInfos": [
         {
@@ -224,10 +224,10 @@
         },
         {
             "BundleName": "assets/gameres/scene/game",
-            "Hash": "f0e7d0275c51f7cff4587bd15ab85519",
-            "CRC": "ed68a4f3",
+            "Hash": "25378a1e1526144e6fabace1363550a2",
+            "CRC": "78b64242",
             "SizeBytes": 39957,
-            "Version": 1,
+            "Version": 2,
             "Tags": [
                 "buildin"
             ],
@@ -279,10 +279,10 @@
         },
         {
             "BundleName": "assets/gameres/config/config1",
-            "Hash": "e8990dd9bf36162c67d8098d6391a167",
-            "CRC": "943a8572",
-            "SizeBytes": 21,
-            "Version": 1,
+            "Hash": "68dab5ed9c130fd466784ad0fa8d53dc",
+            "CRC": "1824e1b3",
+            "SizeBytes": 22,
+            "Version": 2,
             "Tags": [
                 "other"
             ],
@@ -290,10 +290,10 @@
         },
         {
             "BundleName": "assets/gameres/config/config2",
-            "Hash": "cbe85a40939c487db6dcc8a9101c5119",
-            "CRC": "77b89b09",
-            "SizeBytes": 21,
-            "Version": 1,
+            "Hash": "d1f1fae83f04ae8adba333c503451584",
+            "CRC": "5889998a",
+            "SizeBytes": 22,
+            "Version": 2,
             "Tags": [
                 "other"
             ],
@@ -301,10 +301,10 @@
         },
         {
             "BundleName": "assets/gameres/config/config3",
-            "Hash": "f2faea0187cfa2cdd985009738c60eb8",
-            "CRC": "e93b4196",
-            "SizeBytes": 21,
-            "Version": 1,
+            "Hash": "94fbbfd1cab68a6fee3712af37bc4daa",
+            "CRC": "98edb19d",
+            "SizeBytes": 22,
+            "Version": 2,
             "Tags": [
                 "other"
             ],
